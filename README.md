@@ -1,6 +1,6 @@
 # Home Assistant PaLM Response Sensor
 
-This is a non-working custom component for Home Assistant intended to allow generation of text responses using Google's PaLM API. PaLM API allows access the advanced capabilities of Google’s large language models like PaLM 2.
+This is a non-working custom component for Home Assistant intended to allow generation of text responses using Google's PaLM API. PaLM API allows access to the advanced capabilities of Google’s large language models like PaLM 2.
 
 Join [the waitlist](https://developers.generativeai.google/products/palm) for the public preview to get your [API key](https://makersuite.google.com/app/apikey) via MakerSuite.
 
