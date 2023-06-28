@@ -2,7 +2,7 @@
 
 This is a non-working custom component for Home Assistant intended to allow generation of text responses using Google's PaLM API. PaLM API allows access the advanced capabilities of Google’s large language models like PaLM 2.
 
-Join the waitlist [the waitlist](https://developers.generativeai.google/products/palm) for the public preview to get your [API key](https://makersuite.google.com/app/apikey) via MakerSuite.
+Join [the waitlist](https://developers.generativeai.google/products/palm) for the public preview to get your [API key](https://makersuite.google.com/app/apikey) via MakerSuite.
 
 Development is ongoing. Project was built parallel to [openai_response](https://github.com/Hassassistant/openai_response) by Hassassistant. Please contribute as able.
 
