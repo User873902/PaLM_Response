@@ -1,0 +1,8 @@
+{
+  "name": "PaLM Response",
+  "version": "0.1.0",
+  "domain": "palm_response",
+  "documentation": [],
+  "dependencies": [],
+  "requirements": []
+}
