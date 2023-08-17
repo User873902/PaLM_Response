@@ -4,7 +4,7 @@ This is a non-working custom component for Home Assistant intended to allow gene
 
 Join [the waitlist](https://developers.generativeai.google/products/palm) for the public preview to get your [API key](https://makersuite.google.com/app/apikey) via MakerSuite.
 
-Development is paused secondary to the anticipated implementation of service call responses in 2023.7, specifically **conversation.process**.  This service allows you to ask Assist a command or question, and get a response back. "In the morning, you could ask Home Assistant for todays calendar events, add things like weather information, send it to ChatGPT (or PaLM) using the conversation proceess and ask it to summerize it, and send a notification to your phone with the result."
+Development was discontinued secondary to the successful implementation of [service call responses](https://www.home-assistant.io/blog/2023/07/05/release-20237/#services-can-now-respond) in 2023.7, specifically the **conversation.process** service.  This service allows you to ask Assist a command or question, and get a response back. "In the morning, you could ask Home Assistant for todays calendar events, add things like weather information, send it to ChatGPT (or PaLM) using the conversation proceess and ask it to summerize it, and send a notification to your phone with the result."
 
 The PaLM Response Sensor project was built parallel to [openai_response](https://github.com/Hassassistant/openai_response) by Hassassistant. Please contribute as able.
 
